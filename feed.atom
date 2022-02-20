@@ -1,19 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-	<channel>
-		<title />
-		<link>/</link>
-		<description />
-		<copyright>Copyright © 2022 yukino</copyright>
-		<pubDate>Sun, 20 Feb 2022 06:14:58 GMT</pubDate>
-		<lastBuildDate>Sun, 20 Feb 2022 06:14:58 GMT</lastBuildDate>
-		<item>
-			<title>自炊</title>
-			<link>/posts/2022-02-20</link>
-			<description>&lt;p&gt;一人暮らしを始めてから一年とちょっとが過ぎた。これくらい経つと、もう随分と慣れてくるものだ。&lt;/p&gt;</description>
-			<guid isPermaLink="false">/posts/2022-02-20</guid>
-			<pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;一人暮らしを始めてから一年とちょっとが過ぎた。これくらい経つと、もう随分と慣れてくるものだ。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>/</id>
+	<title />
+	<link rel="self" href="/" />
+	<rights>Copyright © 2022 yukino</rights>
+	<updated>2022-02-20T09:40:31Z</updated>
+	<entry>
+		<id>/posts/2022-02-20</id>
+		<title>自炊</title>
+		<link href="/posts/2022-02-20" />
+		<updated>2022-02-20T00:00:00Z</updated>
+		<content>&lt;p&gt;一人暮らしを始めてから一年とちょっとが過ぎた。これくらい経つと、もう随分と慣れてくるものだ。&lt;/p&gt;
 &lt;p&gt;当然食料を自分で用意しないと行けないのだが、一人でどこかのお店に入るのが得意ではない &lt;a id="fnref:1" href="/#fn:1" class="footnote-ref"&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; ので、基本的に自炊するか、コンビニで何かを買って家で食べることが多い。コンビニで買って済ますのは月に2~3回くらいである。宅配系のサービスはまだ使ったことがない。自宅のドアの前まで誰かが来ることに抵抗があるのかもしれない。&lt;/p&gt;
 &lt;p&gt;自炊が多いと言っても、スーパーでお惣菜だけ買うことは結構ある &lt;a id="fnref:2" href="/#fn:2" class="footnote-ref"&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; し、冷凍食品はめちゃくちゃ使う &lt;a id="fnref:3" href="/#fn:3" class="footnote-ref"&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; し、カット野菜も時短のためによく使う。とはいえ、おそらく1年の食事のうち2/3以上は自分で作ったものを食べていると思う。&lt;/p&gt;
 &lt;p&gt;雑穀米とみそ汁と後なにか、くらいの食事を1年ちょっと続けているが、最近は慣れてきたと同時にサボることも覚えたので、↓くらいのことは何も考えずにできるようになった。&lt;/p&gt;
@@ -43,16 +40,15 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-</content:encoded>
-			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
-		</item>
-		<item>
-			<title>おすすめ作品10選の内容について補足</title>
-			<link>/posts/2019-04-25</link>
-			<description>&lt;p&gt;M3-2019春で、同人音楽同好会にて頒布されておりました、「同人音楽.book -2019 Spring-」にて、私も「おすすめ作品10選」を書かせていただきました。この記事では、10選の選定基準や、紹介した作品の入手方法や試聴について、紙面に書けなかった内容を補足していきます。&lt;/p&gt;</description>
-			<guid isPermaLink="false">/posts/2019-04-25</guid>
-			<pubDate>Thu, 25 Apr 2019 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;M3-2019春で、同人音楽同好会にて頒布されておりました、「同人音楽.book -2019 Spring-」にて、私も「おすすめ作品10選」を書かせていただきました。この記事では、10選の選定基準や、紹介した作品の入手方法や試聴について、紙面に書けなかった内容を補足していきます。&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;一人暮らしを始めてから一年とちょっとが過ぎた。これくらい経つと、もう随分と慣れてくるものだ。&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>/posts/2019-04-25</id>
+		<title>おすすめ作品10選の内容について補足</title>
+		<link href="/posts/2019-04-25" />
+		<updated>2019-04-25T00:00:00Z</updated>
+		<content>&lt;p&gt;M3-2019春で、同人音楽同好会にて頒布されておりました、「同人音楽.book -2019 Spring-」にて、私も「おすすめ作品10選」を書かせていただきました。この記事では、10選の選定基準や、紹介した作品の入手方法や試聴について、紙面に書けなかった内容を補足していきます。&lt;/p&gt;
 &lt;h2 id="section"&gt;選んだ10作品&lt;/h2&gt;
 &lt;p&gt;紙面も本記事の見出しも、フォーマットは、[作品名] / [サークル名]です。本記事も紙面に記載した順に書いていきます。
 なお、順番に特に序列等はありません。（紙面にしたときに角になる作品が読まれやすいだろう、という点は多少意識しました。）&lt;/p&gt;
@@ -180,8 +176,7 @@
 &lt;p&gt;自己紹介欄にも書いたとおり、私は同人音楽をはじめとする同人活動自体に対しては割と楽観的な見方をしています（今後も今のカタチと同じままであるとは思いませんが）。
 音楽そのものの立ち位置も変わってきたな、という感じなので、同人音楽にも何もないわけがないとは思います。今後も私が観測できる範囲で同人音楽という場に起こる出来事は追っていきたいと思います。&lt;/p&gt;
 &lt;p&gt;もともと狭い範囲で行われてきた、「同好の士による共感と共有」というものが、このインターネットの時代を超えて、ソーシャルで刹那的に共有消費される現代でどのように機能するか、私は創る側ではありませんが、創らない者なりの同人活動というものは考えていきたいなぁと思っております。&lt;/p&gt;
-</content:encoded>
-			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
-		</item>
-	</channel>
-</rss>
+</content>
+		<summary>&lt;p&gt;M3-2019春で、同人音楽同好会にて頒布されておりました、「同人音楽.book -2019 Spring-」にて、私も「おすすめ作品10選」を書かせていただきました。この記事では、10選の選定基準や、紹介した作品の入手方法や試聴について、紙面に書けなかった内容を補足していきます。&lt;/p&gt;</summary>
+	</entry>
+</feed>
